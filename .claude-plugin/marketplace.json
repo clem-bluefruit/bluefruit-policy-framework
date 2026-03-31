@@ -1,0 +1,15 @@
+{
+  "name": "bluefruit-claude-tools",
+  "owner": {
+    "name": "Bluefruit Software",
+    "email": "it@bluefruit.co.uk"
+  },
+  "plugins": [
+    {
+      "name": "bluefruit-policy-framework",
+      "source": "./plugins/bluefruit-policy-framework",
+      "description": "Step-by-step guide for Bluefruit's policy creation process",
+      "version": "0.2.0"
+    }
+  ]
+}

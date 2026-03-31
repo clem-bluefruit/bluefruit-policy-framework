@@ -1,0 +1,9 @@
+{
+  "name": "bluefruit-policy-framework",
+  "version": "0.2.0",
+  "description": "Guides Decision Managers, Reviewers, and Approvers through Bluefruit's policy creation framework step by step.",
+  "author": {
+    "name": "Bluefruit"
+  },
+  "keywords": ["policy", "bluefruit", "governance", "framework"]
+}
